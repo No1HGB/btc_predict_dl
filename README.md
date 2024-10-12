@@ -2,6 +2,8 @@
 
 ### (Result: Fail)
 
+### Colab Codes: https://drive.google.com/drive/folders/1s86vzUAwXBJrTmZ8PBfZUw5JMMBQ5h2d?usp=sharing
+
 ## Background
 
 - 약 한달 간 기술적 분석(거래량, 봉, 이평선 등 과거 데이터 활용하는 방식)을 통해 만든 알고리즘 선물 투자가 %로 따졌을 때 꽤나 괜찮은 수익을 안겨주면서 과거 데이터 기반한 투자가 가능하겠다는 생각.
